@@ -1,3 +1,7 @@
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-20**
 # Claude QKOV Traces
 [![License: PolyForm](https://img.shields.io/badge/License-PolyForm-yellow.svg)](https://opensource.org/licenses/PolyForm)
 [![Python: 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -5,12 +9,6 @@
 [![JAX: 0.4.20+](https://img.shields.io/badge/jax-0.4.20+-green.svg)](https://github.com/google/jax)
 ## Recursive Attribution Infrastructure for Alignment Symmetry
 *Interpretability Integration Initiative (I³) | v0.3.7-alpha | Diagnostic Lattice Division*
-
-```
-⚠️ INTERNAL USE ONLY
-Classification: Research Infrastructure
-Access: Alignment Team + Interpretability Core
-```
 
 ---
 
